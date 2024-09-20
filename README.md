@@ -1,2 +1,2 @@
-### QuizDemoJS
+# QuizDemoJS
 student demo quiz javascript
