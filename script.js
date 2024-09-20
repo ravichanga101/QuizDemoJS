@@ -125,3 +125,5 @@ function checkAnswers() {
 
 // Add event listener to the submit button
 submitBtn.addEventListener("click", checkAnswers);
+
+// this is js comment
